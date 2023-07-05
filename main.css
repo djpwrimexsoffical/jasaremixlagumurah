@@ -1,0 +1,41 @@
+*body {
+    padding: 0;
+    margin: 0;
+}
+.wel {
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-size: 32px;
+    line-height: normal;
+    text-align: center;
+    padding-top: 180px;
+}
+.jasa {
+    color: #F97F7F;
+    font-size: 26px;
+    text-align: center;
+    font-family:'Satisfy', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.button-container {
+    text-align: center;
+    padding-top: 30px;
+  }
+  
+  .button {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 40px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 15px;
+  }
+  .button:hover {
+    background-color: orange;
+    color: black;
+  }
+  
